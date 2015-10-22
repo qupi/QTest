@@ -9,5 +9,5 @@
  * @author quang.tran
  */
 public class Quang {
-    system.out.println("noi dung 11234");
+    system.out.println("noi dung 112345");
 }
